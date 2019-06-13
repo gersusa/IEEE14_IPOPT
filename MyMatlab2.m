@@ -22,4 +22,3 @@ if ~isempty(pfs)
 end
 create_solution2(pfs,contingencies,1)
 end
-

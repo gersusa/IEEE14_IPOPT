@@ -18,4 +18,3 @@ mpc = extend_opf(mpc);
 save('mpc.mat','mpcOPF','mpcOPF_or');
 create_solution1(mpcOPF,1);
 end
-
